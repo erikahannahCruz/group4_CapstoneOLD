@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">group4_Capstone</string>
+
+    <string name="statsLabel"><u>Stats:</u></string>
+
+    <string name="steps">Steps Taken:</string>
+    <string name="rewards">Rewards Redeemed:</string>
+    <string name="campus">Campus Explored:</string>
+    <string name="attendance">Attendance:</string>
+    <string name="expGained">EXP Gained:</string>
+
+
 </resources>
